@@ -2,5 +2,5 @@ node_modules
 dist
 coverage
 .env
-data-source/DatasourceApplication
+src/database/data-source/DatasourceApplication.ts
 .idea
